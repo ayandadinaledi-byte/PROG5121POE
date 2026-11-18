@@ -266,8 +266,7 @@ public class StoredMessage {
     }
 
     // ---------- Reading and updating the JSON file ----------
-    // Reference: add the source(s) you actually used for reading JSON here (Harvard style).
-
+  
     // Reads messages.json into the arrays (flag "Stored")
     public static String loadStoredMessagesFromJson() {
         String id = "";
